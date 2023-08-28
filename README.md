@@ -1,6 +1,5 @@
 # AQI-Visualization-and-Prediction
-This project e project made use of Python Programming Language libraries, particularly pandas, seaborn, plotly express, and scikit-learn, within a Jupyter Notebook
-
+This project utilized various Python Programming Language libraries, with a special focus on pandas, seaborn, plotly express, and scikit-learn. These libraries were employed within a Jupyter Notebook environment to accomplish the project's objectives
 ### Importing Libraries
 ![image](https://github.com/KcSumanKc/AQI-Visualization-and-Prediction/assets/112715589/67df15d4-4825-4fa4-9e43-830807da5a68)
 
